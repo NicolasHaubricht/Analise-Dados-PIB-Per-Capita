@@ -1,4 +1,4 @@
-# Projeto Análise de Dados | Obesidade Mundial
+# Projeto Análise de Dados | PIB Per Capita
 
 Este projeto tem como objetivo a análise de dados sobre as variações do PIB per capita em diversos países ao longo dos anos. Com base nesses dados, o projeto fornece informações sobre as regiões com maiores crescimentos de PIB per capita no século passado entre outros dados. Trabalhando com Pandas, Matplotlib e Numpy.
 
